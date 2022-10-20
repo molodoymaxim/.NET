@@ -45,5 +45,5 @@
 
 >Модель базы данных:
 
-    ![image](https://user-images.githubusercontent.com/103942325/197052192-b7c142cd-703c-46fd-b112-5a8295ad1ba0.png)
+![image](https://user-images.githubusercontent.com/103942325/197052192-b7c142cd-703c-46fd-b112-5a8295ad1ba0.png)
 
