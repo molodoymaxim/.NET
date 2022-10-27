@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hHT70WdKhuA0bafxBP9hk1KXTAA8xL+mdMVjdBZ2eUc=",
+  "Source": "MedicationPlan",
+  "BasePath": "_content/MedicationPlan",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
