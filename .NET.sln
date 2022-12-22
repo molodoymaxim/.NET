@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicationPlan", "MedicationPlan\MedicationPlan.csproj", "{7AB6597B-D60B-4FE8-B76D-60A3A4931B32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicationPlan.Api", "MedicationPlan.Api\MedicationPlan.Api.csproj", "{7AB6597B-D60B-4FE8-B76D-60A3A4931B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicationPlan.Entities", "MedicationPlan.Entities\MedicationPlan.Entities.csproj", "{422C0556-61C7-4920-BF75-68FB1DF38023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicationPlan.Repository", "MedicationPlan.Repository\MedicationPlan.Repository.csproj", "{0FA3DF4C-D760-4E81-BDAC-3C03978C0C53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +22,13 @@ Global
 		{7AB6597B-D60B-4FE8-B76D-60A3A4931B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AB6597B-D60B-4FE8-B76D-60A3A4931B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AB6597B-D60B-4FE8-B76D-60A3A4931B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422C0556-61C7-4920-BF75-68FB1DF38023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422C0556-61C7-4920-BF75-68FB1DF38023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422C0556-61C7-4920-BF75-68FB1DF38023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422C0556-61C7-4920-BF75-68FB1DF38023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA3DF4C-D760-4E81-BDAC-3C03978C0C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA3DF4C-D760-4E81-BDAC-3C03978C0C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA3DF4C-D760-4E81-BDAC-3C03978C0C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA3DF4C-D760-4E81-BDAC-3C03978C0C53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
